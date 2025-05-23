@@ -8,7 +8,7 @@ This personal dashboard web application is developed using **Next.js** and **Tai
 
 ## 🌐 Live URL & Repository
 
-- **Live Application**: [https://localhost:3000](https://localhost:3000)
+- **Live Application**: [https://flow-launch-personal-dashboard.vercel.app/](https://flow-launch-personal-dashboard.vercel.app/)
 - **GitHub Repository**: [https://github.com/Sushmitha-SK/FlowLaunch-PersonalDashboard.git](https://github.com/Sushmitha-SK/FlowLaunch-PersonalDashboard.git)
 
 ---
@@ -103,7 +103,7 @@ root
    ```
 2. Navigate to the project directory:
    ```bash
-   cd repository-name
+   cd FlowLaunch-PersonalDashboard-main
    ```
 3. Install dependencies:
    ```bash
